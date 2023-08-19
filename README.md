@@ -1,5 +1,7 @@
 #  Analysing NFL Offensive Plays
 
+# Link to report: NFL_Data_Science_Report.pdf
+
 ## Simulations
 
 ![image](https://user-images.githubusercontent.com/79582928/236174168-923b2004-52cc-4986-b021-d86d5ad82560.png)
