@@ -1,6 +1,6 @@
 #  Analysing NFL Offensive Plays
 
-# Link to report: NFL_Data_Science_Report.pdf
+# Link to report: [NFL_Data_Science_Report.pdf](https://github.com/emiljino/NFL-Data-Science-Project/blob/82b71020c86f9e355ae9670f7059b21ac57a85e4/NFL_Data_Science_Report.pdf)
 
 ## Simulations
 
